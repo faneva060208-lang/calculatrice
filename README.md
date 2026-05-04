@@ -1,2 +1,2 @@
 # calculatrice
-calculatrice avec un mod binaire
+calculatrice avec un option binaire
